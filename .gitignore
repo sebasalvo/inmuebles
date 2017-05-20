@@ -1,0 +1,23 @@
+# Compiled maven
+/target
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# NPM Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules
+
+/*.classpath
+/*.idea
+/*.metadata
+/*.project
+/.settings
+/build
+/coverage-report
+/dist
